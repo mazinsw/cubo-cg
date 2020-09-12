@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="2" TopLine="172">
+			<Cursor Line="107" Column="1"/>
+			<Selection Line="105" Column="1"/>
+		</File>
+		<File Name="util.cpp" Top="No" Tabpos="3" TopLine="25">
+			<Cursor Line="39" Column="2"/>
+			<Selection Line="39" Column="44"/>
+		</File>
+	</Files>
+</Layout>
